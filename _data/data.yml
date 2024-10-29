@@ -3,29 +3,27 @@ meta:
   language: en              # text language, the value is HTML lang attribute value, default is "en"
 
 basic:
-  name: Foo Bar                      # name
-  title: Backend Developer           # job title 
+  name: 单新锐                      # name
+  title: CTFer                      # job title 
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
 
 contact:
-  location: Beijing, China  # location, text or markdown link syntax
-  email: me@example.com     # email address
-  phone: +86-111-2222-3333  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
-  website: example.com      # site link without schema, like example.com, will automatically prepend "https://"
+  location: Wuhan, China  # location, text or markdown link syntax
+  email: lystics艾特l3hsec.com     # email address
+  phone: +86-139-9583-6006  # phone number, the format is "+[Country Code] [Area Code (if applicable)] [Local Phone Number]"
 
-  gender:                   # gender or pronoun
-  birthday:                 # birthday
-  nationality:              # nationality
-  visa:                     # passport visa
-  drivinglicense:           # driving licence
+  gender:                 男# gender or pronoun
+  birthday:  2005.03.30     # birthday
+  nationality:中国              # nationality
+
 
   # ! Do not paste the link directly.
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github:                   # https://github.com/<username>
+  github:                   https://github.com/<lysistic>
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -104,10 +102,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    The profile section in a resume is a brief summary of the applicant's skills, qualifications, and experience. The purpose of this section is to provide a snapshot of the applicant's professional background and highlight their most relevant accomplishments and strengths. It may include information such as the applicant's career objectives, years of experience, areas of expertise, and key achievements.
-
-    A well-crafted profile section can help to grab the attention of potential employers and encourage them to read on and learn more about the applicant's qualifications and experience.
-
+    你能做的，岂止如此
 experience:
   show: true
   order: 2
